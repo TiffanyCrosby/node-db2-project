@@ -16,7 +16,7 @@ let generateData = () => {
       Model: 'Tundra',
       Milage: 58462,
       Title: 'clean',
-      Transmission: 'unknown',
+      'Transmission Type': 'unknown',
     },
     {
       VIN: 1564653478946186,
@@ -24,7 +24,7 @@ let generateData = () => {
       Model: 'Durango',
       Milage: 58462,
       Title: 'clean',
-      Transmission: 'dual',
+      'Transmission Type': 'dual',
     },
     {
       VIN: 1564465163541,
@@ -32,7 +32,7 @@ let generateData = () => {
       Model: 'Benz',
       Milage: 584,
       Title: 'clean',
-      Transmission: 'automatic',
+     'Transmission Type': 'automatic',
     },
     {
       VIN: 15646539545583541,
@@ -40,7 +40,7 @@ let generateData = () => {
       Model: 'Z52',
       Milage: 546,
       Title: 'salvage',
-      Transmission: 'manual',
+      'Transmission Type': 'manual',
     },
   ]
 }
